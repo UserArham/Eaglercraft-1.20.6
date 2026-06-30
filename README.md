@@ -34,3 +34,9 @@ For iOS, it supports:
 - Firefox 71+
 - Opera 69
 - Safari 47+
+
+
+## OS requiry:
+
+For Windows:
+- Windows 8.1 or higher
