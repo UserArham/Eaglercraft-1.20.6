@@ -33,7 +33,7 @@ For iOS, it supports:
 - Edge 70+
 - Firefox 71+
 - Opera 69
-- Safari 47+
+- Safari 11+
 
 
 ## OS requiry:
